@@ -64,7 +64,7 @@ Build promotions around the 51 to 55 segment, especially for bigger-ticket items
 ```
 walmart-spend-prediction/
 ├── walmart_analysis.R       # Cleaning, EDA, modeling, evaluation
-├── data/                    # Not included (Walmart dataset)
+├── data/                    # 
 └── README.md
 ```
 
