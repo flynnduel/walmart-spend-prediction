@@ -75,8 +75,9 @@ Build promotions around the 51 to 55 segment, especially for bigger-ticket items
 
 ```
 walmart-spend-prediction/
-├── walmart_analysis.R       # Cleaning, EDA, modeling, evaluation
-├── data/                    # 
+├── Walmart Customer Spend Prediction.R     # Cleaning, EDA, modeling, evaluation
+├── Walmart Customer Spend Prediction.pdf   # Full writeup
+├── walmart.csv                             # Dataset (public Kaggle Black Friday set)
 └── README.md
 ```
 
