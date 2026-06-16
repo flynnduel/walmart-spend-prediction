@@ -15,7 +15,7 @@ Walmart runs hundreds of millions of transactions. At that scale, even a small l
 
 ## Key findings
 
-Customers aged 51 to 55 spend the most per transaction, which makes them an obvious target for higher-end promotions. The bigger surprise was rural: Category C customers outspend urban customers on average, even though rural markets usually get treated as lower priority. Gender barely mattered once everything else was controlled for; men spend more in total, but that's volume, not bigger baskets. Random Forest explained about 46% of the variance in spend, and I'd rather be honest about that ceiling than dress it up.
+Customers aged 51 to 55 spend the most per transaction, which makes them an obvious target for higher-end promotions. The bigger surprise was rural. Category C customers outspend urban customers on average, even though rural markets usually get treated as lower priority. Gender barely mattered once everything else was controlled for; men spend more in total, but that's volume, not bigger baskets. Random Forest explained about 46% of the variance in spend, and I'd rather be honest about that ceiling than dress it up.
 
 ---
 
